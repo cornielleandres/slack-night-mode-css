@@ -18,3 +18,5 @@
     > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } \
     > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }); \
     > });
+
+3. Save, then re-open Slack.
